@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "狂えない",
+  "base_artist": "理芽",
+  "createdAt": "2025-12-06T03:34:08.424654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "狂えない",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/01_狂えない_理芽.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "理芽 - 狂えない  / RIM - (Not) Lunatic (Official Music Video) #30",
+      "artist": "RIM",
+      "has_synced": true,
+      "path": "select/02_理芽_-_狂えない___RIM_-_(Not)_Lunatic_(Official_Music_Video)__30_RIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "狂えない",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/03_狂えない_理芽.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "狂えない",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_狂えない_理芽.txt"
+    }
+  ]
+}
